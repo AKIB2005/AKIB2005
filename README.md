@@ -80,10 +80,12 @@ reach_me:    akibshaikh2005@gmail.com
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation of Akib's contribution graph" src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
-
-> ⚠️ **To enable the snake:** go to your GitHub profile repo → Actions tab → enable workflows → the snake SVG auto-generates from your contribution graph. If it's not showing, [follow this setup guide](https://github.com/platane/snk).
 
 ---
 
@@ -95,31 +97,13 @@ reach_me:    akibshaikh2005@gmail.com
 
 ---
 
-### 💭 Random Dev Thought
+### 💭 Thought of the Day
 
+<!-- THOUGHT:START -->
 > _"First, solve the problem. Then, write the code."_ — John Johnson
+<!-- THOUGHT:END -->
 
-*(Rotates live on a portfolio/GitHub Pages site — JS snippet in source comments)*
-
-<!--
-<blockquote id="dev-thought"></blockquote>
-<script>
-const thoughts = [
-  {text:"First, solve the problem. Then, write the code.", by:"John Johnson"},
-  {text:"Any fool can write code a computer understands. Good programmers write code humans understand.", by:"Martin Fowler"},
-  {text:"Debugging is twice as hard as writing the code in the first place.", by:"Brian Kernighan"},
-  {text:"The best error message is the one that never shows up.", by:"Thomas Fuchs"},
-  {text:"Code is like humor. When you have to explain it, it's bad.", by:"Cory House"},
-  {text:"Make it work, make it right, make it fast.", by:"Kent Beck"},
-  {text:"It's not a bug, it's an undocumented feature.", by:"Anonymous"},
-  {text:"Talk is cheap. Show me the code.", by:"Linus Torvalds"},
-  {text:"The only way to go fast is to go well.", by:"Robert C. Martin"},
-  {text:"Every great developer got there by solving problems they were unqualified to solve.", by:"Patrick McKenzie"}
-];
-const q = thoughts[Math.floor(Math.random() * thoughts.length)];
-document.getElementById('dev-thought').innerHTML = `"${q.text}"<br><cite>— ${q.by}</cite>`;
-</script>
--->
+<p align="center"><i>✨ Updated daily via GitHub Actions · powered by <a href="https://quotable.io">Quotable API</a></i></p>
 
 ---
 
