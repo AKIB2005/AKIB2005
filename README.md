@@ -1,6 +1,14 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/akibshaikh2005"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -30,6 +38,10 @@ reach_me:    akibshaikh2005@gmail.com
 ---
 
 ### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
+</div>
 
 **Languages**
 
@@ -65,6 +77,16 @@ reach_me:    akibshaikh2005@gmail.com
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> ⚠️ **To enable the snake:** go to your GitHub profile repo → Actions tab → enable workflows → the snake SVG auto-generates from your contribution graph. If it's not showing, [follow this setup guide](https://github.com/platane/snk).
+
+---
+
 ### 🚀 Highlights & Activity
 
 | 💭 Dev Quote | 🔝 Top Contributed Repos |
@@ -75,8 +97,9 @@ reach_me:    akibshaikh2005@gmail.com
 
 ### 💭 Random Dev Thought
 
-<!-- This section is powered by a small GitHub Action or can be added to a portfolio site -->
-<!-- Copy-paste the script below into any HTML page for live rotating quotes: -->
+> _"First, solve the problem. Then, write the code."_ — John Johnson
+
+*(Rotates live on a portfolio/GitHub Pages site — JS snippet in source comments)*
 
 <!--
 <blockquote id="dev-thought"></blockquote>
@@ -97,10 +120,6 @@ const q = thoughts[Math.floor(Math.random() * thoughts.length)];
 document.getElementById('dev-thought').innerHTML = `"${q.text}"<br><cite>— ${q.by}</cite>`;
 </script>
 -->
-
-> _"First, solve the problem. Then, write the code."_ — John Johnson
-
-*(Tip: this quote rotates live on a portfolio/GitHub Pages site using the JS snippet above)*
 
 ---
 
