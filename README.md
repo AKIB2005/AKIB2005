@@ -26,8 +26,7 @@
 📍 &nbsp; **Where?** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maharashtra, India 🇮🇳  
 🔥 &nbsp; **Grinding** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN Stack ⚡ · Data Structures & Algorithms 🧠  
 🎯 &nbsp; **Mission** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build things that actually matter 💡  
-🤝 &nbsp; **Open to** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collabs 🤜🤛 · Internships 💼 · Open Source 🌍  
-🌙 &nbsp; **Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I debug at 2am and it somehow always works  
+🤝 &nbsp; **Open to** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collabs 🤜🤛 · Internships 💼 · Open Source 🌍   
 📬 &nbsp; **Hit me up** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com)
 
 ---
