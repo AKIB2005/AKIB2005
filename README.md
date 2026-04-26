@@ -8,26 +8,30 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akibshaikh2005"><img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/akibshaikh2005"><img src="https://img.shields.io/badge/X-akibshaikh2005-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://instagram.com/akibshaikh2005/"><img src="https://img.shields.io/badge/Instagram-akibshaikh2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akibshaikh2005"><img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/akibshaikh2005"><img src="https://img.shields.io/badge/X-akibshaikh2005-000000?style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/akibshaikh2005/"><img src="https://img.shields.io/badge/Instagram-akibshaikh2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="mailto:akibshaikh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-akibshaikh2005-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br/>
 
 ---
 
 ### 🚀 About Me
 
-> _A dev from Maharashtra who turns caffeine into code and bugs into features_ ☕
+>_I don't have bugs, I have unscheduled features_ 🐛
 
 <br/>
 
-🧑‍💻 &nbsp; **Who am I?** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student · MERN Stack Dev · DSA Grinder  
-📍 &nbsp; **Where?** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maharashtra, India 🇮🇳  
-🔥 &nbsp; **Grinding** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN Stack ⚡ · Data Structures & Algorithms 🧠  
-🎯 &nbsp; **Mission** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build things that actually matter 💡  
-🤝 &nbsp; **Open to** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collabs 🤜🤛 · Internships 💼 · Open Source 🌍   
-📬 &nbsp; **Hit me up** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com)
+| | |
+|---|---|
+| 🧑‍💻 **Who am I?** | Student · MERN Stack Dev · DSA Grinder |
+| 📍 **Where?** | Maharashtra, India 🇮🇳 |
+| 🔥 **Grinding** | MERN Stack ⚡ · Data Structures & Algorithms 🧠 |
+| 🎯 **Mission** | Build things that actually matter 💡 |
+| 🤝 **Open to** | Collabs 🤜🤛 · Internships 💼 · Open Source 🌍 |
+| 📬 **Hit me up** | [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com) |
 
 ---
 
@@ -35,13 +39,15 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" />
-
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" />
+</p>
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" />
+</p>
 
 ---
 
