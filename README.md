@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -28,10 +28,20 @@
 |---|---|
 | 🧑‍💻 **Who am I?** | Student · MERN Stack Dev · DSA Grinder |
 | 📍 **Where?** | Maharashtra, India 🇮🇳 |
-| 🔥 **Grinding** | MERN Stack ⚡ · Data Structures & Algorithms 🧠 |
+| 🔥 **Grinding** | MERN Stack ⚡ · Data Structures & Algorithms 🧠 · Agentic AI 🤖 |
 | 🎯 **Mission** | Build things that actually matter 💡 |
-| 🤝 **Open to** | Collabs 🤜🤛 · Internships 💼 · Open Source 🌍 |
+| 🤝 **Collaboration** | Let's team up! Always open to PRs, issues, and discussions. |
+| 🌍 **Open Source** | Active contributor (GirlScript Summer of Code '26 Open Source Track) |
+| ⚡ **Work Ethic** | Always be punctual and be on time. |
 | 📬 **Hit me up** | [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com) |
+
+---
+
+### 🌟 Featured Projects (PRs Welcome!)
+
+* **[Smart Ambulance Routing System](#)**: AI-optimized real-time traffic routing for green corridors. *Looking for MERN stack contributors!*
+* **[Add Your Project Name Here](#)**: Short description of the project. *Check the `good-first-issue` labels!*
+* **[Add Your Project Name Here](#)**: Short description of the project. 
 
 ---
 
@@ -46,7 +56,7 @@
 **Frameworks & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,vercel" />
 </p>
 
 ---
