@@ -79,4 +79,4 @@
   <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="center"><i>Built with caffeine ☕ and curiosity 🔍</i></p>
+<p align="center"><i>Built with caffeine ☕ & curiosity 🔍</i></p>
