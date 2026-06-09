@@ -87,52 +87,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🛒 E-Commerce Website
-- MERN Stack
-- Authentication & Authorization
-- Product Management
-- Responsive UI
-
-### 📋 Task Manager App
-- React + Node.js + MongoDB
-- CRUD Operations
-- JWT Authentication
-
-### 🧠 DSA Practice Repository
-- Java & C++
-- Interview Questions
-- Problem Solving Solutions
-
-> Replace these with your actual projects and repository links.
-
----
-
-# 🏆 Coding Profiles
-
-<p align="center">
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODECHEF_LINK">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="YOUR_GFG_LINK">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
