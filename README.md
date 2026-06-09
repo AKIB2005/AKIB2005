@@ -1,105 +1,180 @@
-<!-- ==========================================
-     HEADER & SOCIALS
-=========================================== -->
 <div align="center">
-  <!-- Welcome Animations -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Wave Animation" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Code Display Animation" />
 
-  <!-- Typing SVG Title -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG Greeting" />
-  </h1>
+# Hi 👋, I'm Akib Shaikh
 
-  <!-- Social Badges -->
-  <p>
-    <a href="https://linkedin.com/in/akibshaikh2005" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/akibshaikh2005" target="_blank">
-      <img src="https://img.shields.io/badge/X-akibshaikh2005-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-    </a>
-    <a href="https://instagram.com/akibshaikh2005/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-akibshaikh2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:akibshaikh2005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-akibshaikh2005-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+### MERN Stack Developer • DSA Enthusiast • Computer Engineering Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast;Always+Learning+Something+New" />
+
+<br>
+
+<a href="https://linkedin.com/in/akibshaikh2005">
+  <img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/akibshaikh2005">
+  <img src="https://img.shields.io/badge/X-akibshaikh2005-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/akibshaikh2005">
+  <img src="https://img.shields.io/badge/Instagram-akibshaikh2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:akibshaikh2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-akibshaikh2005-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<br/>
+---
 
-<!-- ==========================================
-     ABOUT ME SECTION
-=========================================== -->
+# 🚀 About Me
+
+💡 Passionate about building web applications and solving real-world problems through code.
+
+🎓 Computer Engineering Student from Maharashtra, India.
+
+🌱 Currently learning advanced MERN Stack development and Data Structures & Algorithms.
+
+🚀 Looking for internships, collaborations, and open-source opportunities.
+
+📫 Reach me at: **akibshaikh2005@gmail.com**
+
+---
+
+# 🌱 Currently Learning
+
+- MERN Stack Development
+- Data Structures & Algorithms
+- TypeScript
+- REST APIs
+- System Design Fundamentals
+- Open Source Contribution
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
+
+### Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🛒 E-Commerce Website
+- MERN Stack
+- Authentication & Authorization
+- Product Management
+- Responsive UI
+
+### 📋 Task Manager App
+- React + Node.js + MongoDB
+- CRUD Operations
+- JWT Authentication
+
+### 🧠 DSA Practice Repository
+- Java & C++
+- Interview Questions
+- Problem Solving Solutions
+
+> Replace these with your actual projects and repository links.
+
+---
+
+# 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_CODECHEF_LINK">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="YOUR_GFG_LINK">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="YOUR_HACKERRANK_LINK">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
 <div align="center">
-  <h2>🚀 About Me</h2>
-  <p><i>"I don't have bugs, I have unscheduled features" 🐛</i></p>
 
-  | | |
-  | :--- | :--- |
-  | 🧑‍💻 **Who am I?** | Student · MERN Stack Dev · DSA Grinder |
-  | 📍 **Where?** | Maharashtra, India 🇮🇳 |
-  | 🔥 **Grinding** | MERN Stack ⚡ · Data Structures & Algorithms 🧠 |
-  | 🎯 **Mission** | Build things that actually matter 💡 |
-  | 🤝 **Open to** | Collabs 🤜🤛 · Internships 💼 · Open Source 🌍 |
-  | 📬 **Hit me up** | [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com) |
+<img src="https://github-readme-stats.vercel.app/api?username=AKIB2005&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKIB2005&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKIB2005&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<br/>
+---
 
-<!-- ==========================================
-     TECH STACK
-=========================================== -->
+# ⚡ Contribution Graph
+
 <div align="center">
-  <h2>💻 Tech Stack</h2>
-  
-  <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" alt="Languages Icons" />
 
-  <br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&theme=tokyo-night&hide_border=true" />
 
-  <p><b>Frameworks & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" alt="Frameworks and Tools Icons" />
 </div>
 
-<br/>
+---
 
-<!-- ==========================================
-     GITHUB ACTIVITY & SNAKE ANIMATION
-=========================================== -->
+# 🐍 Contribution Snake
+
 <div align="center">
-  <h2>⚡ GitHub Activity</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Code Animation Line" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
-<br/>
+---
 
-<!-- ==========================================
-     STATS & STREAKS (DROPDOWN)
-=========================================== -->
 <div align="center">
-  <details>
-    <summary><b>📈 GitHub Stats & Activity — click to expand</b></summary>
-    <br/>
-    <img src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-    <br/><br/>
-    <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" />
-    <br/><br/>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  </details>
-</div>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077b6&style=for-the-badge" />
 
-<!-- ==========================================
-     FOOTER & PROFILE VIEWS
-=========================================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077b6&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
-  <br/><br/>
-  <p><i>Built with caffeine ☕ & curiosity 🔍</i></p>
+### Code • Learn • Build • Repeat 🚀
+
 </div>
