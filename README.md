@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Akib+Shaikh+%F0%9F%91%8B;Computer+Science+Student+%40+NK+Orchid;MERN+Stack+Developer;DSA+Enthusiast+%26+Problem+Solver;Open+Source+Contributor+%E2%80%94+GSSoC+2026;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Akib+Shaikh+%F0%9F%91%8B;Computer+Science+Student+%40+NK+Orchid;MERN+Stack+Developer;DSA+Enthusiast+%26+Problem+Solver;Open+Source+Contributor;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -30,9 +30,6 @@
 
 <br/><br/>
 
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/GSSoC%202026-Active%20Contributor-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC 2026" />
-&nbsp;
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A5-58A6FF?style=for-the-badge" alt="Status" />
@@ -62,7 +59,6 @@ college    : N.K. Orchid College of Engineering & Technology, Solapur
 year       : First Year — Computer Science Engineering
 github     : github.com/AKIB2005
 focus      : MERN Stack · DSA · Open Source · Agentic AI
-currently  : Contributing to GSSoC 2026 across multiple repos
 goal       : Build impactful products that solve real-world problems
 motto      : Always be punctual. Always be on time.
 contact    : akibshaikh2005@gmail.com
@@ -74,43 +70,10 @@ contact    : akibshaikh2005@gmail.com
 
 | 🧑‍💻 Role | CS Student · MERN Stack Dev · DSA Enthusiast |
 |:---|:---|
-| 🌍 Open Source | GSSoC '26 — claiming & shipping across beginner–intermediate issues |
+| 🌍 Open Source | Contributing to community projects & learning in public |
 | 🎯 Current Focus | Full-Stack Dev · Competitive Programming · Agentic AI |
 | 🧠 Learning | MERN Stack · LLMs · System Design · DSA Patterns |
 | ⚡ Fun Fact | I optimize my commit messages harder than my algorithms |
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     FEATURED PROJECT
-============================================================ -->
-<div align="center">
-
-## 🔥 Featured Project
-
-### 🚑 Smart Ambulance Routing & Green Corridor System
-
-</div>
-
-> An AI-powered emergency response system that uses **real-time traffic analytics**, **route optimization**, and **intelligent decision-making** to minimize ambulance travel time and improve emergency healthcare outcomes.
-
-<div align="center">
-
-| Layer | Tech Used |
-|:---:|:---:|
-| Frontend | React.js · Tailwind CSS |
-| Backend | Node.js · Express.js |
-| Database | MongoDB |
-| AI / Maps | Google Maps API · Pathfinding Algorithms |
-| Deployment | Vercel |
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-Smart%20Ambulance%20System-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKIB2005)
 
 </div>
 
@@ -129,10 +92,35 @@ contact    : akibshaikh2005@gmail.com
 
 ```
 🔹 Full-Stack MERN Applications         ████████████░░░░  75%
-🔹 Open Source via GSSoC 2026           ██████████░░░░░░  60%
+🔹 Open Source Contributions            ██████████░░░░░░  60%
 🔹 AI-Powered & Agentic Workflows       ███████░░░░░░░░░  45%
 🔹 DSA for Competitive Programming      ████████████████  80%
 ```
+
+<br/>
+
+---
+
+<!-- ============================================================
+     WHAT I'M LEARNING
+============================================================ -->
+<div align="center">
+
+## 📚 Currently Learning
+
+</div>
+
+<div align="center">
+
+| Topic | Resource | Status |
+|:---:|:---:|:---:|
+| Data Structures & Algorithms | LeetCode · GFG | 🔥 Active |
+| React.js + Node.js | Projects + Docs | 🔥 Active |
+| MongoDB & Express | Backend Projects | 📖 Learning |
+| Agentic AI & LLMs | Online Courses | 🌱 Exploring |
+| System Design Basics | Articles + Videos | 🌱 Exploring |
+
+</div>
 
 <br/>
 
@@ -166,34 +154,6 @@ contact    : akibshaikh2005@gmail.com
 ### 🔧 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=8" alt="Tools" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     GSSOC 2026 HIGHLIGHT
-============================================================ -->
-<div align="center">
-
-## 🌟 GSSoC 2026 Contributions
-
-</div>
-
-I'm actively contributing to **GirlScript Summer of Code 2026** — India's largest open source program. Here's what I've been shipping:
-
-- ✅ **Architecture Diagram** — PR #168 merged to `priyanshu5ingh/VISUALAIZE`
-- ✅ **Real-time Weather Monitoring Agent** — PR submitted to `fetchai/innovation-lab-examples`
-- 🚧 Contributing across repos including AlgoScope, FitMart, career-pilot, CreatorOs & more
-- 📌 GitHub: [@AKIB2005](https://github.com/AKIB2005)
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PRs%20Submitted-Growing%20Daily-58A6FF?style=flat-square&logo=github" />
-&nbsp;
-<img src="https://img.shields.io/badge/Program-GSSoC%202026-FF6B35?style=flat-square" />
 
 </div>
 
@@ -269,20 +229,20 @@ I'm actively contributing to **GirlScript Summer of Code 2026** — India's larg
 
 <br/>
 
-> ⚠️ **Note:** For the snake animation to work, make sure your GitHub Actions workflow is set up to generate the SVG into your own repo's `output` branch at `AKIB2005/AKIB2005`. See [platane/snk](https://github.com/Platane/snk) for setup.
-
-<br/>
-
 ---
 
 <!-- ============================================================
-     DYNAMIC QUOTE
+     DAILY QUOTE
 ============================================================ -->
 <div align="center">
 
 ## 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Dev Quote" />
+</picture>
 
 </div>
 
