@@ -11,13 +11,12 @@
 
 <br/><br/>
 
-<!-- Social Badges -->
 <a href="https://linkedin.com/in/akibshaikh2005" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://x.com/akibshaikh2005" target="_blank">
-  <img src="https://img.shields.io/badge/X-%40akibshaikh2005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  <img src="https://img.shields.io/badge/X-%40akibshaikh2005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 &nbsp;
 <a href="https://instagram.com/akibshaikh2005" target="_blank">
@@ -68,8 +67,9 @@ contact    : akibshaikh2005@gmail.com
 
 <div align="center">
 
-| 🧑‍💻 Role | CS Student · MERN Stack Dev · DSA Enthusiast |
+| | |
 |:---|:---|
+| 🧑‍💻 Role | CS Student · MERN Stack Dev · DSA Enthusiast |
 | 🌍 Open Source | Contributing to community projects & learning in public |
 | 🎯 Current Focus | Full-Stack Dev · Competitive Programming · Agentic AI |
 | 🧠 Learning | MERN Stack · LLMs · System Design · DSA Patterns |
@@ -81,46 +81,7 @@ contact    : akibshaikh2005@gmail.com
 
 ---
 
-<!-- ============================================================
-     CURRENTLY BUILDING
-============================================================ -->
-<div align="center">
 
-## 🛠️ Currently Working On
-
-| 🚀 Thing | 📌 Status |
-|:---|:---:|
-| MERN Stack Projects | 🔨 Building |
-| Data Structures & Algorithms | 📖 Grinding |
-| Open Source Contributions | 🌱 Getting Started |
-| Agentic AI & LLMs | 👀 Exploring |</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     WHAT I'M LEARNING
-============================================================ -->
-<div align="center">
-
-## 📚 Currently Learning
-
-</div>
-
-<div align="center">
-
-| Topic | Resource | Status |
-|:---:|:---:|:---:|
-| Data Structures & Algorithms | LeetCode · GFG | 🔥 Active |
-| React.js + Node.js | Projects + Docs | 🔥 Active |
-| MongoDB & Express | Backend Projects | 📖 Learning |
-| Agentic AI & LLMs | Online Courses | 🌱 Exploring |
-| System Design Basics | Articles + Videos | 🌱 Exploring |
-
-</div>
-
-<br/>
 
 ---
 
@@ -152,21 +113,6 @@ contact    : akibshaikh2005@gmail.com
 ### 🔧 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=8" alt="Tools" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     GITHUB TROPHIES
-============================================================ -->
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=AKIB2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -211,25 +157,6 @@ contact    : akibshaikh2005@gmail.com
 ---
 
 <!-- ============================================================
-     CONTRIBUTION SNAKE
-============================================================ -->
-<div align="center">
-
-## 🐍 Eating My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" width="880" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
      DAILY QUOTE
 ============================================================ -->
 <div align="center">
@@ -261,6 +188,6 @@ contact    : akibshaikh2005@gmail.com
 
 <br/>
 
-*Thanks for visiting! If you like what you see, drop a ⭐ on any of my repos.*
+*Thanks for visiting! Drop a ⭐ on any repo you find useful.*
 
 </div>
