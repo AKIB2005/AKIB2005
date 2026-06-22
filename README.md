@@ -86,16 +86,14 @@ contact    : akibshaikh2005@gmail.com
 ============================================================ -->
 <div align="center">
 
-## 🛠️ Currently Building
+## 🛠️ Currently Working On
 
-</div>
-
-```
-🔹 Full-Stack MERN Applications         ████████████░░░░  75%
-🔹 Open Source Contributions            ██████████░░░░░░  60%
-🔹 AI-Powered & Agentic Workflows       ███████░░░░░░░░░  45%
-🔹 DSA for Competitive Programming      ████████████████  80%
-```
+| 🚀 Thing | 📌 Status |
+|:---|:---:|
+| MERN Stack Projects | 🔨 Building |
+| Data Structures & Algorithms | 📖 Grinding |
+| Open Source Contributions | 🌱 Getting Started |
+| Agentic AI & LLMs | 👀 Exploring |</div>
 
 <br/>
 
