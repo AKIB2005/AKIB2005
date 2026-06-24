@@ -1,193 +1,63 @@
-<!-- ============================================================
-     HEADER
-============================================================ -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720" alt="Coding Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Akib+Shaikh+%F0%9F%91%8B;Computer+Science+Student+%40+NK+Orchid;MERN+Stack+Developer;DSA+Enthusiast+%26+Problem+Solver;Open+Source+Contributor;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Akib+Shaikh+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+MERN+Developer;DSA+Enthusiast+%26+Problem+Solver;Open+Source+Contributor;Exploring+Agentic+AI+%26+LLMs;Always+Building+%E2%80%A2+Always+Learning" alt="Typing SVG" />
 
-<br/><br/>
+<br><br>
 
 <a href="https://linkedin.com/in/akibshaikh2005" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://x.com/akibshaikh2005" target="_blank">
   <img src="https://img.shields.io/badge/X-%40akibshaikh2005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://instagram.com/akibshaikh2005" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-akibshaikh2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="mailto:akibshaikh2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-akibshaikh2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<br/><br/>
+<br><br>
 
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A5-58A6FF?style=for-the-badge" alt="Status" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Status-Building%20🔥-58A6FF?style=for-the-badge" alt="Status" />
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ============================================================
-     ABOUT ME
-============================================================ -->
 <div align="center">
 
-## 🚀 About Me
+# 🚀 About Me
 
-> *"I don't have bugs — I have unscheduled features."* 🐛
+> *"Turning ideas into impactful software, one commit at a time."*
 
 </div>
 
-<br/>
+<br>
 
 ```yaml
-name       : Akib Shaikh
-college    : N.K. Orchid College of Engineering & Technology, Solapur
-year       : First Year — Computer Science Engineering
-github     : github.com/AKIB2005
-focus      : MERN Stack · DSA · Open Source · Agentic AI
-goal       : Build impactful products that solve real-world problems
-motto      : Always be punctual. Always be on time.
-contact    : akibshaikh2005@gmail.com
-```
-
-<br/>
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🧑‍💻 Role | CS Student · MERN Stack Dev · DSA Enthusiast |
-| 🌍 Open Source | Contributing to community projects & learning in public |
-| 🎯 Current Focus | Full-Stack Dev · Competitive Programming · Agentic AI |
-| 🧠 Learning | MERN Stack · LLMs · System Design · DSA Patterns |
-| ⚡ Fun Fact | I optimize my commit messages harder than my algorithms |
-
-</div>
-
-<br/>
-
----
-
-
-
----
-
-<!-- ============================================================
-     TECH STACK
-============================================================ -->
-<div align="center">
-
-## 💻 Tech Stack
-
-### 🗣️ Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp&perline=8" alt="Languages" />
-
-<br/><br/>
-
-### ⚙️ Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&perline=8" alt="Frameworks" />
-
-<br/><br/>
-
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=8" alt="Databases" />
-
-<br/><br/>
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=8" alt="Tools" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     GITHUB STATS
-============================================================ -->
-<div align="center">
-
-## ⚡ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AKIB2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="430" alt="GitHub Stats" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=tokyonight&hide_border=true" width="430" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKIB2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="380" alt="Top Languages" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     CONTRIBUTION GRAPH
-============================================================ -->
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="920" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     DAILY QUOTE
-============================================================ -->
-<div align="center">
-
-## 💬 Dev Quote of the Day
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming" />
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Dev Quote" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     FOOTER
-============================================================ -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AKIB2005&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/><br/>
-
-### 💻 Code &nbsp;•&nbsp; Learn &nbsp;•&nbsp; Build &nbsp;•&nbsp; Repeat 🚀
-
-<br/>
-
-*Thanks for visiting! Drop a ⭐ on any repo you find useful.*
-
-</div>
+name        : Akib Shaikh
+college     : N.K. Orchid College of Engineering & Technology, Solapur
+year        : Computer Science Engineering Student
+github      : github.com/AKIB2005
+focus       : MERN Stack · DSA · Open Source · Agentic AI
+goal        : Building scalable products that create real-world impact
+motto       : Consistency • Discipline • Continuous Learning
+contact     : akibshaikh2005@gmail.com
