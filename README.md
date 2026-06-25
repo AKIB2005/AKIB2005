@@ -1,63 +1,85 @@
+<!-- =======================================================
+                     HEADER SECTION
+======================================================= -->
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Akib+Shaikh+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+MERN+Developer;DSA+Enthusiast+%26+Problem+Solver;Open+Source+Contributor;Exploring+Agentic+AI+%26+LLMs;Always+Building+%E2%80%A2+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Akib+Shaikh;Computer+Engineering+Student;MERN+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Always+Learning+New+Things" />
 
 <br><br>
 
-<a href="https://linkedin.com/in/akibshaikh2005" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=AKIB2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/AKIB2005?logo=github&style=for-the-badge" />
 
-<a href="https://x.com/akibshaikh2005" target="_blank">
-  <img src="https://img.shields.io/badge/X-%40akibshaikh2005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/akibshaikh2005" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-akibshaikh2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:akibshaikh2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-akibshaikh2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Status-Building%20🔥-58A6FF?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/github/stars/AKIB2005?logo=github&style=for-the-badge" />
 
 </div>
 
 ---
 
+# 💫 About Me
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-3f6f0d6d4f73.gif"/>
+
+🎓 Computer Engineering Student
+
+💻 MERN Stack Developer
+
+🌱 Currently Learning:
+- Agentic AI
+- Large Language Models
+- Advanced MERN Stack
+- Data Structures & Algorithms
+
+🚀 Open Source Contributor
+
+🎯 Goal:
+Build impactful products that solve real-world problems.
+
+⚡ Fun Fact:
+"I don't have bugs, I have unscheduled features."
+
+---
+
+# 🌐 Connect With Me
+
 <div align="center">
 
-# 🚀 About Me
+<a href="https://linkedin.com/in/akibshaikh2005">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
 
-> *"Turning ideas into impactful software, one commit at a time."*
+<a href="https://x.com/akibshaikh2005">
+<img src="https://skillicons.dev/icons?i=twitter" height="50" />
+</a>
+
+<a href="https://instagram.com/akibshaikh2005">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<a href="mailto:akibshaikh2005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
 
 </div>
 
-<br>
+---
+
+# 🚀 Current Focus
 
 ```yaml
-name        : Akib Shaikh
-college     : N.K. Orchid College of Engineering & Technology, Solapur
-year        : Computer Science Engineering Student
-github      : github.com/AKIB2005
-focus       : MERN Stack · DSA · Open Source · Agentic AI
-goal        : Building scalable products that create real-world impact
-motto       : Consistency • Discipline • Continuous Learning
-contact     : akibshaikh2005@gmail.com
+Currently Working On:
+  - Open Source Contributions
+  - Full Stack Web Development
+  - Agentic AI Projects
+  - DSA & Problem Solving
+
+Looking To Collaborate:
+  - Open Source Projects
+  - AI Applications
+  - MERN Stack Projects
