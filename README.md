@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=120&section=header&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Akib+Shaikh;Computer+Engineering+Student;MERN+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Akib%20Shaikh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -124,11 +120,7 @@ fun_fact    : I don't have bugs — I have unscheduled features 😄
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -147,7 +139,7 @@ fun_fact    : I don't have bugs — I have unscheduled features 😄
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *Thanks for visiting — let's build something amazing together!* ⭐
 
