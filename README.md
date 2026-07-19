@@ -39,22 +39,12 @@
 
   | | |
   | :--- | :--- |
-  | 🧑‍💻 **Who am I?** | Tech Student · MERN Stack Dev · DSA Grinder |
-  | 🌍 **Open Source** | Making my first-time contributions in the GSSoC '26 Open Source Track! |
-  | 🧠 **Learning** | Mastering MERN & DSA, while diving deep into Agentic AI & Large Language Models. |
-  | ⏱️ **My Tagline** | Always be punctual and be on time. |
+  | 🧑‍💻 **Who am I?** | Student · MERN Stack Dev · DSA Grinder |
+  | 📍 **Where?** | Maharashtra, India 🇮🇳 |
+  | 🔥 **Grinding** | MERN Stack ⚡ · Data Structures & Algorithms 🧠 |
+  | 🎯 **Mission** | Build things that actually matter 💡 |
+  | 🤝 **Open to** | Collabs 🤜🤛 · Internships 💼 · Open Source 🌍 |
   | 📬 **Hit me up** | [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com) |
-</div>
-
-<br/>
-
-<!-- ==========================================
-     FEATURED PROJECTS
-=========================================== -->
-<div align="center">
-  <h2>🛠️ Featured Work</h2>
-  <p><b>Smart Ambulance Routing & Green Corridor System</b><br/>
-  <i>Leveraging real-time traffic data and AI optimization to build systems that save lives.</i></p>
 </div>
 
 <br/>
@@ -65,44 +55,42 @@
 <div align="center">
   <h2>💻 Tech Stack</h2>
   
-  <p><b>Languages & Core</b></p>
+  <p><b>Languages</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" alt="Languages Icons" />
 
   <br/><br/>
 
-  <p><b>Frameworks, DBs & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mongodb,vercel" alt="Frameworks and Tools Icons" />
+  <p><b>Frameworks & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" alt="Frameworks and Tools Icons" />
 </div>
 
 <br/>
 
 <!-- ==========================================
-     GITHUB STATS & CONTRIBUTION GRAPHS
+     GITHUB ACTIVITY & SNAKE ANIMATION
 =========================================== -->
 <div align="center">
-  <h2>📈 GitHub Activity & Stats</h2>
+  <h2>⚡ GitHub Activity</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Code Animation Line" />
   <br/><br/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</div>
 
-  <!-- Contribution Line Graph -->
-  <a href="https://github.com/AKIB2005">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="850"/>
-  </a>
-  <br/><br/>
+<br/>
 
-  <!-- Stats Grid -->
-  <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400" />
-    <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
-  </p>
-  
-  <br/>
-  <!-- Top Languages & Snake -->
-  <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="350" />
-  </p>
-  <br/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="800" />
+<!-- ==========================================
+     STATS & STREAKS (DROPDOWN)
+=========================================== -->
+<div align="center">
+  <details>
+    <summary><b>📈 GitHub Stats & Activity — click to expand</b></summary>
+    <br/>
+    <img src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    <br/><br/>
+    <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <br/><br/>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  </details>
 </div>
 
 <br/>
