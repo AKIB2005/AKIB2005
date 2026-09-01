@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Wave Animation" />
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Code Display Animation" />
 
-  <!-- Typing SVG Title -->
+
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG Greeting" />
   </h1>
