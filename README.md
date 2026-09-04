@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG Greeting" />
   </h1>
 
-  <!-- Social Badges -->
+  
   <p>
     <a href="https://linkedin.com/in/akibshaikh2005" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-akibshaikh2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
