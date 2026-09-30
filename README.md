@@ -83,26 +83,28 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Divider" />
   <br/><br/>
 
+  <!-- Live badges straight from GitHub's API -->
+  <p align="center">
+    <a href="https://github.com/AKIB2005?tab=followers">
+      <img src="https://img.shields.io/github/followers/AKIB2005?style=for-the-badge&logo=github&color=0077B5&labelColor=1a1a2e" alt="Followers" />
+    </a>
+    <a href="https://github.com/AKIB2005?tab=repositories">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAKIB2005&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0077B5&labelColor=1a1a2e" alt="Public Repos" />
+    </a>
+    <a href="https://github.com/AKIB2005">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAKIB2005&query=%24.created_at&label=Joined&style=for-the-badge&logo=github&color=0077B5&labelColor=1a1a2e" alt="Joined GitHub" />
+    </a>
+  </p>
+
+  <!-- Contribution calendar -->
+  <h3>Contribution Graph</h3>
   <a href="https://github.com/AKIB2005">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="850" />
+    <img src="https://ghchart.rshah.org/0077B5/AKIB2005" alt="AKIB2005 contribution graph" width="850" />
   </a>
   <br/><br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AKIB2005&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="170" />
-    <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKIB2005&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="170" />
-  </p>
-  <br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake.svg" width="800" />
-  </picture>
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <br/>
