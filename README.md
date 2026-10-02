@@ -62,7 +62,6 @@
 
 <br/>
 
-<!-- TECH STACK -->
 <div align="center">
   <h2>💻 Tech Stack</h2>
 
