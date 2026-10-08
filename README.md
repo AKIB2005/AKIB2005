@@ -27,7 +27,7 @@
 
 <br/>
 
-<!-- ABOUT ME -->
+
 <div align="center">
   <h2>🚀 About Me</h2>
   <p><i>"I don't have bugs, I have unscheduled features" 🐛</i></p>
