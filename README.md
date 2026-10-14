@@ -3,7 +3,7 @@
 
   <h1>
     <a href="https://github.com/AKIB2005">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast;Aspiring+Agentic+AI+Builder" alt="Typing SVG Greeting" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Third-Year+CSE+Student;MERN+Stack+Developer;DSA+Enthusiast;Aspiring+Agentic+AI+Builder" alt="Typing SVG Greeting" />
     </a>
   </h1>
 
@@ -25,65 +25,60 @@
   <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077b6&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
 </div>
 
-<br/>
-
+---
 
 <div align="center">
   <h2>🚀 About Me</h2>
   <p><i>"I don't have bugs, I have unscheduled features" 🐛</i></p>
 </div>
 
-| | |
+| Category | Details |
 | :--- | :--- |
-| 🧑‍💻 **Who am I?** | First-year CSE student · MERN Stack Dev · DSA Grinder |
-| 🌍 **Open Source** | Contributing to multiple repositories in **GSSoC '26** |
-| 🧠 **Learning** | Mastering MERN & DSA, while diving deep into Agentic AI & LLMs |
-| 🎯 **Long-term goal** | Building agentic AI systems that solve real problems |
-| ⏱️ **My Tagline** | Always be punctual and be on time. |
-| 📬 **Hit me up** | [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com) |
+| 🧑‍💻 **Who am I?** | Third-year CSE student · MERN Stack Developer · DSA Grinder |
+| 🌍 **Open Source** | Active contributor across multiple repositories in **GSSoC '26** |
+| 🧠 **Current Focus** | Mastering Full-Stack architecture & DSA while building with Agentic AI & LLMs |
+| 🎯 **Long-term Goal** | Architecting scalable, agentic AI systems that solve real-world problems |
+| ⏱️ **Core Value** | Always be punctual and deliver on time |
+| 📬 **Contact** | [akibshaikh2005@gmail.com](mailto:akibshaikh2005@gmail.com) |
 
-<br/>
+---
 
-<!-- FEATURED WORK -->
 <div align="center">
   <h2>🛠️ Featured Work</h2>
 </div>
 
-| Project | What it does |
+| Project | Description |
 | :--- | :--- |
-| 🚑 **Smart Ambulance Routing & Green Corridor System** | Uses real-time traffic data and AI optimization to build systems that save lives. |
-| 🤝 **CommunityBridge** | NGO–volunteer matching platform built for Google Solution Challenge 2026 (team lead). |
+| 🚑 **Smart Ambulance Routing & Green Corridor System** | AI-powered traffic optimization system leveraging real-time data to clear emergency pathways and save lives. |
+| 🤝 **CommunityBridge** | NGO–volunteer matching platform built as Team Lead for the **Google Solution Challenge 2026**. |
 
-<p align="center">
+<div align="center">
+  <br/>
   <a href="https://github.com/AKIB2005?tab=repositories">
     <img src="https://img.shields.io/badge/Browse_All_Repositories-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
-</p>
+</div>
 
-<br/>
+---
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
 
-  <p><b>Languages & Core</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" alt="Languages" />
+  <h4>Languages & Core</h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css" alt="Languages" />
 
-  <br/><br/>
-
-  <p><b>Frameworks, Databases & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,vercel,git,github,postman,vscode" alt="Frameworks and Tools" />
+  <h4>Frameworks, Databases & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,git,github,vercel,postman,vscode" alt="Frameworks and Tools" />
 </div>
 
-<br/>
+---
 
-<!-- GITHUB STATS -->
 <div align="center">
   <h2>📈 GitHub Activity & Stats</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
   <br/><br/>
 
-  <!-- Live badges straight from GitHub's API -->
-  <p align="center">
+  <p>
     <a href="https://github.com/AKIB2005?tab=followers">
       <img src="https://img.shields.io/github/followers/AKIB2005?style=for-the-badge&logo=github&color=0077B5&labelColor=1a1a2e" alt="Followers" />
     </a>
@@ -91,22 +86,19 @@
       <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAKIB2005&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0077B5&labelColor=1a1a2e" alt="Public Repos" />
     </a>
     <a href="https://github.com/AKIB2005">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAKIB2005&query=%24.created_at&label=Joined&style=for-the-badge&logo=github&color=0077B5&labelColor=1a1a2e" alt="Joined GitHub" />
+      <img src="https://img.shields.io/github/stars/AKIB2005?style=for-the-badge&logo=github&color=0077B5&labelColor=1a1a2e" alt="Total Stars" />
     </a>
   </p>
 
-  <!-- Contribution calendar -->
+  <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
+  
   <h3>Contribution Graph</h3>
   <a href="https://github.com/AKIB2005">
-    <img src="https://ghchart.rshah.org/0077B5/AKIB2005" alt="AKIB2005 contribution graph" width="850" />
+    <img src="https://ghchart.rshah.org/0077B5/AKIB2005" alt="AKIB2005 contribution graph" width="100%" />
   </a>
-  <br/><br/>
-
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
-<br/>
+---
 
 <div align="center">
   <p><i>Built with caffeine ☕ & curiosity 🔍</i></p>
