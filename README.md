@@ -23,10 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 <br/>
 
 <p align="center">
@@ -56,6 +52,20 @@ const akib = {
   reachMe: "akibshaikh2005@gmail.com",
 };
 ```
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true&background=0d1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077b6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
 
 <br/>
 
