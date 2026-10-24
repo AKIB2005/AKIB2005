@@ -36,22 +36,6 @@
 ## ⚡ About Me
 
 ```js
-const akib = {
-  name: "Akib Shaikh",
-  role: "Full-Stack Developer & AI Enthusiast",
-  education: "B.Tech in Computer Science & Engineering (3rd Year)",
-
-  currentFocus: [
-    "Scalable full-stack apps with the MERN stack",
-    "Agentic AI workflows & LLM orchestration",
-    "Data Structures & Algorithms",
-  ],
-
-  longTermGoal: "Build agentic AI systems that solve real-world problems",
-  ethos: "Write clean code, build for scale, and always deliver on time.",
-  reachMe: "akibshaikh2005@gmail.com",
-};
-```
 
 <br/> 
 
