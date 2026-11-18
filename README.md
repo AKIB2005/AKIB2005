@@ -1,109 +1,131 @@
-Here is an analysis of your current profile and the strategy used to enhance and reorganize it:
- * Visibility & Impact: Your GitHub stats were hidden inside a <details> dropdown. Great metrics should be front and center to immediately build credibility. They have been moved out and arranged in a side-by-side grid to save vertical space.
- * Enhanced Data Visualization: Added a dynamic GitHub Activity Graph to visually map your contribution spikes and trends over time, fulfilling your request for a contribution graph.
- * Structural Flow: Grouped the layout into logical, scannable sections: Greeting/Socials → Quick Facts → Tech Stack → Analytics Dashboard (Stats, Graphs, Snake) → Footer.
- * Aesthetic Tweaks: Removed redundant decorative GIFs that pushed the main content down too far. Moved your signature quote directly under your title for a cleaner introduction.
-Here is the upgraded, copy-paste ready Markdown code for your README:
 <!-- ==========================================
-     HEADER & SOCIALS
+     HEADER
 =========================================== -->
 <div align="center">
-  <!-- Welcome Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150" alt="Wave Animation" />
 
-  <!-- Typing SVG Title -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG Greeting" />
-  </h1>
-  <p><i>"I don't have bugs, I have unscheduled features" 🐛</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0077B5&text=Hi%2C%20I%27m%20Akib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20DSA%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="Header banner" />
 
-  <!-- Social Badges -->
-  <p>
-    <a href="https://linkedin.com/in/akibshaikh2005" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/akibshaikh2005" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-    </a>
-    <a href="https://instagram.com/akibshaikh2005/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:akibshaikh2005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=520&height=40&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing animation" />
+
+<p><i>"I don't have bugs, I have unscheduled features" 🐛</i></p>
+
+<p>
+  <a href="https://linkedin.com/in/akibshaikh2005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/akibshaikh2005" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/akibshaikh2005/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:akibshaikh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
 </div>
 
 <br/>
 
 <!-- ==========================================
-     ABOUT ME SECTION
+     ABOUT ME
 =========================================== -->
-<div align="center">
-  <h2>🚀 About Me</h2>
-  
-  | | |
-  | :--- | :--- |
-  | 🧑‍💻 **Who am I?** | Student · MERN Stack Dev · DSA Grinder |
-  | 📍 **Where?** | Maharashtra, India 🇮🇳 |
-  | 🔥 **Grinding** | MERN Stack ⚡ · Data Structures & Algorithms 🧠 |
-  | 🎯 **Mission** | Build things that actually matter 💡 |
-  | 🤝 **Open to** | Collabs 🤜🤛 · Internships 💼 · Open Source 🌍 |
-</div>
+<h2 align="center">🚀 About Me</h2>
+
+<table align="center">
+  <tr>
+    <td>🧑‍💻 <b>Who am I?</b></td>
+    <td>Student · MERN Stack Dev · DSA Grinder</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Where?</b></td>
+    <td>Maharashtra, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>Grinding</b></td>
+    <td>MERN Stack ⚡ · Data Structures &amp; Algorithms 🧠</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Mission</b></td>
+    <td>Build things that actually matter 💡</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Open to</b></td>
+    <td>Collabs 🤜🤛 · Internships 💼 · Open Source 🌍</td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ==========================================
      TECH STACK
 =========================================== -->
-<div align="center">
-  <h2>💻 Tech Stack</h2>
-  <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" alt="Languages Icons" />
-  <br/><br/>
-  <p><b>Frameworks & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" alt="Frameworks and Tools Icons" />
-</div>
+<h2 align="center">💻 Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools" /></td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ==========================================
-     GITHUB ANALYTICS & CONTRIBUTIONS
+     GITHUB ANALYTICS
 =========================================== -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- Stat Cards Grid -->
-  <p>
-    <img src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="195" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="195" alt="Top Languages" />
-  </p>
-  
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-  <br/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Contribution Graph -->
-  <h3>📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<!-- ==========================================
+     CONTRIBUTION GRAPH
+=========================================== -->
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+</p>
 
-  <br/><br/>
+<!-- ==========================================
+     CONTRIBUTION SNAKE
+     Needs the snake.yml workflow (see .github/workflows/snake.yml)
+=========================================== -->
+<h3 align="center">🐍 Contribution Snake</h3>
 
-  <!-- Contribution Snake -->
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
 
 <br/>
 
 <!-- ==========================================
-     FOOTER & PROFILE VIEWS
+     FOOTER
 =========================================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
-  <br/><br/>
-  <p><i>Built with caffeine ☕ & curiosity 🔍</i></p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
+<p align="center"><i>Built with caffeine ☕ &amp; curiosity 🔍</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0077B5" width="100%" alt="Footer banner" />
