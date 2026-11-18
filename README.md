@@ -3,9 +3,13 @@
 =========================================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0077B5&text=Hi%2C%20I%27m%20Akib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20DSA%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="Header banner" />
+<!-- Welcome Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150" alt="Wave Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=520&height=40&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing animation" />
+<!-- Typing SVG Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG Greeting" />
+</h1>
 
 <p><i>"I don't have bugs, I have unscheduled features" 🐛</i></p>
 
@@ -105,16 +109,11 @@
 
 <!-- ==========================================
      CONTRIBUTION SNAKE
-     Needs the snake.yml workflow (see .github/workflows/snake.yml)
 =========================================== -->
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 <br/>
@@ -127,5 +126,3 @@
 </p>
 
 <p align="center"><i>Built with caffeine ☕ &amp; curiosity 🔍</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0077B5" width="100%" alt="Footer banner" />
