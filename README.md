@@ -1,135 +1,112 @@
+# 👋 Hi, I'm Akib Shaikh!
 
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150" alt="Wave Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150" />
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Hi+there,+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!;MERN+Stack+Developer;DSA+Enthusiast" alt="Typing SVG Greeting" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=0077B5&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!+%F0%9F%9A%80;MERN+Stack+Developer;DSA+Enthusiast+%F0%9F%A7%A0;Building+Ideas+into+Reality!" alt="Typing SVG" />
 
-<p><i>"I don't have bugs, I have unscheduled features" 🐛</i></p>
+### 💻 Developer | 🚀 Learner | 🧠 Problem Solver
+
+*"I don't have bugs, I have unscheduled features." 🐛*
 
 <p>
-  <a href="https://linkedin.com/in/akibshaikh2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/akibshaikh2005">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/akibshaikh2005/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:akibshaikh2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="https://linkedin.com/in/akibshaikh2005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/akibshaikh2005"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/akibshaikh2005/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:akibshaikh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
 <table align="center">
-  <tr>
-    <td>🧑‍💻 <b>Who am I?</b></td>
-    <td>Student · MERN Stack Dev · DSA Grinder</td>
-  </tr>
-  <tr>
-    <td>📍 <b>Where?</b></td>
-    <td>Maharashtra, India 🇮🇳</td>
-  </tr>
-  <tr>
-    <td>🔥 <b>Grinding</b></td>
-    <td>MERN Stack ⚡ · Data Structures &amp; Algorithms 🧠</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Mission</b></td>
-    <td>Build things that actually matter 💡</td>
-  </tr>
-  <tr>
-    <td>🤝 <b>Open to</b></td>
-    <td>Collabs 🤜🤛 · Internships 💼 · Open Source 🌍</td>
-  </tr>
+<tr><td>🧑‍💻 <b>Who am I?</b></td><td>Student · MERN Stack Developer · DSA Enthusiast</td></tr>
+<tr><td>📍 <b>Location</b></td><td>Maharashtra, India 🇮🇳</td></tr>
+<tr><td>🔥 <b>Currently Exploring</b></td><td>MERN Stack ⚡ · Data Structures & Algorithms 🧠</td></tr>
+<tr><td>🎯 <b>My Goal</b></td><td>Building impactful projects and solving real-world problems 💡</td></tr>
+<tr><td>🤝 <b>Open To</b></td><td>Collaborations · Internships · Open Source Contributions</td></tr>
 </table>
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
+**🚀 Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp&perline=8" alt="HTML, CSS, JavaScript, TypeScript, Java, Python, C, C++" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp&perline=8" />
 
-**Frameworks &amp; Database**
+**⚡ Frameworks & Databases**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React, Node.js, Express, MongoDB" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" />
 
-**Tools**
+**🛠️ Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code, Vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" />
 
 </div>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=AKIB2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=tokyonight&hide_border=true&layout=compact" />
 
 <br/><br/>
 
-<!-- ADDITIONAL GITHUB STATS CARD -->
-<img src="https://ghstats.dev/api/card?username=AKIB2005" width="100%" alt="Additional GitHub Stats Card" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=AKIB2005&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-<h2 align="center">📈 Contribution Graph</h2>
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
-<!-- PAC-MAN -->
-<!-- Preserve your existing Pac-Man embed here.
-     The original Pac-Man image URL and workflow were not included
-     in the supplied README, so no replacement has been made. -->
-
----
-
-<!-- FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-<p><i>Built with caffeine ☕ &amp; curiosity 🔍</i></p>
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 👾 Pac-Man Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" />
+
+### ☕ Built with caffeine, curiosity & countless lines of code.
+
+**Thanks for visiting! Keep coding and keep creating! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" />
 
 </div>
