@@ -1,113 +1,152 @@
-\# 👋 Hi, I'm Akib Shaikh!
 
-\<div align="center">
+# 👋 Hi, I'm Akib Shaikh!
 
-\<img src="[https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)" width="150" />
+<div align="center">
 
-\<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=0077B5&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=38\&pause=1000\&color=0077B5\&center=true\&vCenter=true\&width=700\&height=80\&lines=Hey%2C+I)'m+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!+%F0%9F%9A%80;MERN+Stack+Developer;DSA+Enthusiast+%F0%9F%A7%A0;Building+Ideas+into+Reality!" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150" alt="Coding Animation" />
 
-\### 💻 Developer | 🚀 Learner | 🧠 Problem Solver
+  <br/>
 
-\*"I don't have bugs, I have unscheduled features." 🐛\*
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=0077B5&center=true&vCenter=true&width=750&height=80&lines=Hey%2C+I'm+Akib!+%F0%9F%91%8B;Welcome+to+my+GitHub!+%F0%9F%9A%80;MERN+Stack+Developer;DSA+Enthusiast+%F0%9F%A7%A0;Building+Ideas+into+Reality!" alt="Typing SVG" />
 
-\<p>
-\<a href="[https://linkedin.com/in/akibshaikh2005](https://linkedin.com/in/akibshaikh2005)">\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" />\</a>
-\<a href="[https://x.com/akibshaikh2005](https://x.com/akibshaikh2005)">\<img src="[https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)" />\</a>
-\<a href="[https://instagram.com/akibshaikh2005/](https://instagram.com/akibshaikh2005/)">\<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />\</a>
-\<a href="mailto:akibshaikh2005@gmail.com">\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />\</a>
-\</p>
+  ### 💻 Developer | 🚀 Learner | 🧠 Problem Solver
 
-\</div>
+  *"I don't have bugs, I have unscheduled features." 🐛*
 
-\---
+  <br/>
 
-\## 🚀 About Me
+  <a href="https://linkedin.com/in/akibshaikh2005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/akibshaikh2005">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/akibshaikh2005/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:akibshaikh2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-\<table align="center">
-\<tr>\<td>🧑‍💻 \<b>Who am I?\</b>\</td>\<td>Student · MERN Stack Developer · DSA Enthusiast\</td>\</tr>
-\<tr>\<td>📍 \<b>Location\</b>\</td>\<td>Maharashtra, India 🇮🇳\</td>\</tr>
-\<tr>\<td>🔥 \<b>Currently Exploring\</b>\</td>\<td>MERN Stack ⚡ · Data Structures & Algorithms 🧠\</td>\</tr>
-\<tr>\<td>🎯 \<b>My Goal\</b>\</td>\<td>Building impactful projects and solving real-world problems 💡\</td>\</tr>
-\<tr>\<td>🤝 \<b>Open To\</b>\</td>\<td>Collaborations · Internships · Open Source Contributions\</td>\</tr>
-\</table>
+</div>
 
-\---
+---
 
-\## 💻 Tech Stack & Tools
+## 🚀 About Me
 
-\<div align="center">
+<table align="center">
+  <tr>
+    <td>🧑‍💻 <b>Who am I?</b></td>
+    <td>Student · MERN Stack Developer · DSA Enthusiast</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Maharashtra, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>Currently Exploring</b></td>
+    <td>MERN Stack ⚡ · Data Structures & Algorithms 🧠</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>My Goal</b></td>
+    <td>Building impactful projects and solving real-world problems 💡</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Open To</b></td>
+    <td>Collaborations · Internships · Open Source Contributions</td>
+  </tr>
+</table>
 
-\*\*🚀 Programming Languages\*\*
+---
 
-\<img src="[https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp&perline=8](https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp\&perline=8)" />
+## 💻 Tech Stack & Tools
 
-\*\*⚡ Frameworks & Databases\*\*
+<div align="center">
 
-\<img src="[https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4](https://skillicons.dev/icons?i=react,nodejs,express,mongodb\&perline=4)" />
+  **🚀 Programming Languages**
 
-\*\*🛠️ Developer Tools\*\*
+  <br/>
 
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4](https://skillicons.dev/icons?i=git,github,vscode,vercel\&perline=4)" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp&perline=8" alt="Programming Languages"/>
 
-\</div>
+  <br/><br/>
 
-\---
+  **⚡ Frameworks & Databases**
 
-\## 📊 GitHub Analytics
+  <br/>
 
-\<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" alt="Frameworks and Databases"/>
 
-\<img height="180" src="[https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true](https://github-readme-stats.shion.dev/api?username=AKIB2005\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=false\&show_icons=true)" />
+  <br/><br/>
 
-\<img height="180" src="[https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=tokyonight&hide_border=true&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005\&theme=tokyonight\&hide_border=true\&layout=compact)" />
+  **🛠️ Developer Tools**
 
-\<br/>\<br/>
+  <br/>
 
-\<img width="70%" src="[https://streak-stats.demolab.com/?user=AKIB2005&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=AKIB2005\&theme=tokyonight\&hide_border=true)" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" alt="Developer Tools"/>
 
-\</div>
+</div>
 
-\---
+---
 
-\## 📈 Contribution Activity
+## 📊 GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005\&bg_color=0D1117\&color=0077B5\&line=0077B5\&point=FFFFFF\&area=true\&hide_border=true)" width="100%" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=AKIB2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats"/>
 
-\</div>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIB2005&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 
-\---
+  <br/><br/>
 
-\## 🐍 Watch My Contributions Get Eaten!
+  <img width="70%" src="https://streak-stats.demolab.com/?user=AKIB2005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-\<div align="center">
+</div>
 
-\<img src="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Contribution Snake Animation" />
+---
 
-\</div>
+## 📈 Contribution Activity
 
-\---
+<div align="center">
 
-\## 👾 Pac-Man Contribution Animation
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKIB2005&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
-\<div align="center">
+</div>
 
-\<img src="[https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/pacman-contribution-graph.svg)" width="100%" alt="Pac-Man Contribution Animation" />
+---
 
-\</div>
+## 🐍 Watch My Contributions Get Eaten!
 
-\---
+<div align="center">
 
-\<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
 
-\<img src="[https://komarev.com/ghpvc/?username=AKIB2005&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=AKIB2005\&color=0077B5\&style=for-the-badge\&label=PROFILE+VIEWS)" />
+</div>
 
-\### ☕ Built with caffeine, curiosity & countless lines of code.
+---
 
-\*\*Thanks for visiting! Keep coding and keep creating! 🚀\*\*
+## 👾 Pac-Man Contribution Animation
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0077B5\&height=100\&section=footer)" width="100%" />
+<div align="center">
 
-\</div>
-enhance it
+  <img src="https://raw.githubusercontent.com/AKIB2005/AKIB2005/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=AKIB2005&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+  <br/><br/>
+
+  ### ☕ Built with caffeine, curiosity & countless lines of code.
+
+  **Thanks for visiting! Keep coding and keep creating! 🚀**
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" alt="Footer Wave"/>
+
+</div>
